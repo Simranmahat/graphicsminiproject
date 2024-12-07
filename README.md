@@ -1,5 +1,5 @@
-For this project, we will primarily utilize Python, a versatile and widely used programming language, along with OpenGL (Open Graphics Library), a cross-language,cross-platform application programming interface (API) for rendering 2D and 3D
-vector graphics. Additionally, we may leverage supplementary libraries such asPygame for user input handling and PyOpenGL for interfacing with OpenGL withinPython
+For this project, we primarily utilized Python, a versatile and widely used programming language, along with OpenGL (Open Graphics Library), a cross-language,cross-platform application programming interface (API) for rendering 2D and 3D
+vector graphics. Additionally, we leveraged supplementary libraries such asPygame for user input handling and PyOpenGL for interfacing with OpenGL withinPython
 
 1 Components Design
 
